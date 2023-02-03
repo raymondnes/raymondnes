@@ -1,12 +1,7 @@
 # They call me Tseju_codes 👋
 <br>
 <br>
-<div id="header" align="right">
-  <img src="Img/Img5.jpeg" width="850" height="600"/>
-</div>
-<br>
-<br>
-<div id="header" align="center">
+<div id="header" align="justify">
   <img src="https://media.giphy.com/media/eUdtR10ZsxlFC/giphy.gif" width="1000" height="150"/>
 </div>
 <br>
