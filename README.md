@@ -37,6 +37,8 @@
     <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   <a href="your-facebook-URL">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="visit-counts"/>
 </div>
     
