@@ -27,7 +27,7 @@
   <a href="https://twitter.com/ride_gray">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-whatsapp-URL">
+  <a href="https://web.whatsapp.com/">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   <a href="your-instagram-URL">
     <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
