@@ -29,7 +29,7 @@
   </a>
   <a href="https://web.whatsapp.com/">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   <a href="your-tiktok-URL">
     <img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
