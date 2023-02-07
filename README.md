@@ -16,6 +16,7 @@
  💬 Ask me anything<br>
  ⚡ Fun fact: When I'm not coding, I play the piano<br>
 <br>
+<br>
  📫 How to reach me
 <div id="badges">
   <a href="https://www.linkedin.com/in/raymondnesiama/">
