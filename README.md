@@ -73,5 +73,9 @@
 
 ---
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondnes&layout=compact&theme=vision-friendly-dark)](https://github.com/raymondnes/github-readme-stats)
+    
+<img align="left" style="display: inline; height: 165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondnes&layout=compact&theme=vision-friendly-dark" />
+
+<img align="center" style="display: inline; height: 165px" src="https://github-readme-stats.vercel.app/api?username=raymondnes&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
+
 
