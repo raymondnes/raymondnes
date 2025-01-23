@@ -116,6 +116,7 @@ EOF
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=raymondnes&background=4D685E&border=58E5C5)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=raymondnes)](https://git.io/streak-stats)
 
